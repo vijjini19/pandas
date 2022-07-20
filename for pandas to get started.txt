@@ -1,0 +1,16 @@
+for pandas
+you have to install the following things in terminal
+in terminal window type
+1) pip install pandas(opening and reading csv files)
+2) pip install xlrd ( reading csv files )
+3) pip install matplotlib ( visualization)
+4) pip install openpyxl ( opening excel file)
+
+
+by default the excel will be with .xlsx extension
+but now we want .csv format
+full form of csv--> comma seperated value
+
+
+
+
